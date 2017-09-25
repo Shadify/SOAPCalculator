@@ -1,0 +1,12 @@
+C:\Users\VSPC1\Desktop\SoapProvider\ConsumerOfSoap\bin\Debug\ConsumerOfSoap.exe.config
+C:\Users\VSPC1\Desktop\SoapProvider\ConsumerOfSoap\bin\Debug\ConsumerOfSoap.exe
+C:\Users\VSPC1\Desktop\SoapProvider\ConsumerOfSoap\bin\Debug\ConsumerOfSoap.pdb
+C:\Users\VSPC1\Desktop\SoapProvider\ConsumerOfSoap\obj\Debug\ConsumerOfSoap.csprojResolveAssemblyReference.cache
+C:\Users\VSPC1\Desktop\SoapProvider\ConsumerOfSoap\obj\Debug\ConsumerOfSoap.exe
+C:\Users\VSPC1\Desktop\SoapProvider\ConsumerOfSoap\obj\Debug\ConsumerOfSoap.pdb
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\ConsumerOfSoap\bin\Debug\ConsumerOfSoap.exe.config
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\ConsumerOfSoap\bin\Debug\ConsumerOfSoap.exe
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\ConsumerOfSoap\bin\Debug\ConsumerOfSoap.pdb
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\ConsumerOfSoap\obj\Debug\ConsumerOfSoap.csprojResolveAssemblyReference.cache
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\ConsumerOfSoap\obj\Debug\ConsumerOfSoap.exe
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\ConsumerOfSoap\obj\Debug\ConsumerOfSoap.pdb

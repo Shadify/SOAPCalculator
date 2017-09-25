@@ -1,0 +1,24 @@
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProviderTests\bin\Debug\ApplicationInsights.config
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProviderTests\bin\Debug\SoapProviderTests.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProviderTests\bin\Debug\SoapProviderTests.pdb
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProviderTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProviderTests\bin\Debug\SoapProvider.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProviderTests\bin\Debug\SharedCalculator.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProviderTests\bin\Debug\SoapProvider.pdb
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProviderTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProviderTests\obj\Debug\SoapProviderTests.csprojResolveAssemblyReference.cache
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProviderTests\obj\Debug\SoapProviderTests.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProviderTests\obj\Debug\SoapProviderTests.pdb
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProviderTests\bin\Debug\SoapProviderTests.dll.config
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProviderTests\bin\Debug\ApplicationInsights.config
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProviderTests\bin\Debug\SoapProviderTests.dll.config
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProviderTests\bin\Debug\SoapProviderTests.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProviderTests\bin\Debug\SoapProviderTests.pdb
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProviderTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProviderTests\bin\Debug\SoapProvider.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProviderTests\bin\Debug\SharedCalculator.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProviderTests\bin\Debug\SoapProvider.pdb
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProviderTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProviderTests\obj\Debug\SoapProviderTests.csprojResolveAssemblyReference.cache
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProviderTests\obj\Debug\SoapProviderTests.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProviderTests\obj\Debug\SoapProviderTests.pdb

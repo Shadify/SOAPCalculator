@@ -1,0 +1,15 @@
+C:\Users\VSPC1\Desktop\SoapProvider\IntegrationTest\bin\Debug\IntegrationTest.dll.config
+C:\Users\VSPC1\Desktop\SoapProvider\IntegrationTest\bin\Debug\IntegrationTest.dll
+C:\Users\VSPC1\Desktop\SoapProvider\IntegrationTest\bin\Debug\IntegrationTest.pdb
+C:\Users\VSPC1\Desktop\SoapProvider\IntegrationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\VSPC1\Desktop\SoapProvider\IntegrationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\VSPC1\Desktop\SoapProvider\IntegrationTest\obj\Debug\IntegrationTest.dll
+C:\Users\VSPC1\Desktop\SoapProvider\IntegrationTest\obj\Debug\IntegrationTest.pdb
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\IntegrationTest\bin\Debug\IntegrationTest.dll.config
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\IntegrationTest\bin\Debug\IntegrationTest.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\IntegrationTest\bin\Debug\IntegrationTest.pdb
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\IntegrationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\IntegrationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\IntegrationTest\obj\Debug\IntegrationTest.csprojResolveAssemblyReference.cache
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\IntegrationTest\obj\Debug\IntegrationTest.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\IntegrationTest\obj\Debug\IntegrationTest.pdb

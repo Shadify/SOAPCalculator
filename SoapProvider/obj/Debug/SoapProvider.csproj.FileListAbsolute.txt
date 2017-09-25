@@ -1,0 +1,39 @@
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\ApplicationInsights.config
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\SoapProvider.dll.config
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\SoapProvider.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\SoapProvider.pdb
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\Microsoft.AI.Web.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\Microsoft.ApplicationInsights.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\Microsoft.AI.Web.xml
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\Microsoft.ApplicationInsights.xml
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\obj\Debug\SoapProvider.csprojResolveAssemblyReference.cache
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\obj\Debug\SoapProvider.dll
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\obj\Debug\SoapProvider.pdb
+C:\Users\VSPC1\Desktop\SoapProvider\SoapProvider\bin\SharedCalculator.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\ApplicationInsights.config
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\SoapProvider.dll.config
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\SoapProvider.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\SoapProvider.pdb
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\Microsoft.AI.Web.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\Microsoft.ApplicationInsights.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\Microsoft.AI.Web.xml
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\bin\Microsoft.ApplicationInsights.xml
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\obj\Debug\SoapProvider.csprojResolveAssemblyReference.cache
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\obj\Debug\SoapProvider.dll
+C:\Users\VSPC1\Desktop\3rd semester\Programming with Anders\Programs in class\SoapProvider\SoapProvider\obj\Debug\SoapProvider.pdb
